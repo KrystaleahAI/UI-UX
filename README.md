@@ -12,3 +12,6 @@ https://youtu.be/-j6_9mJOrCw
 
 myVilla Demo (made on Pencil)
 https://youtu.be/ipw3BOeK8DY
+
+Tech Doc Website UI Kit & Design
+https://medium.com/@lrimm.krystaleah/tech-doc-ui-design-cef357286171
